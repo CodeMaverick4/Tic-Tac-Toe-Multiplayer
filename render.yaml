@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: tic-tac-toe-backend
+    env: node
+    plan: free
+    buildCommand: "cd server && npm install"
+    startCommand: "cd server && npm start"
+    envVars:
+      - key: NODE_ENV
+        value: production
+
+  - type: web
+    name: tic-tac-toe-frontend
+    env: node
+    plan: free
+    buildCommand: "cd client && npm install && npm run build"
+    startCommand: "cd client && serve -s build"
+    envVars:
+      - key: NODE_ENV
+        value: production
+    staticPublishPath: client/build
