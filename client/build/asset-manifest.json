@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//:CodeMaverick4/github.io/Tic-Tac-Toe-Multiplayer/static/css/main.cb8b4e16.css",
+    "main.js": "/https//:CodeMaverick4/github.io/Tic-Tac-Toe-Multiplayer/static/js/main.75c73886.js",
+    "static/js/453.9b2839e6.chunk.js": "/https//:CodeMaverick4/github.io/Tic-Tac-Toe-Multiplayer/static/js/453.9b2839e6.chunk.js",
+    "index.html": "/https//:CodeMaverick4/github.io/Tic-Tac-Toe-Multiplayer/index.html",
+    "main.cb8b4e16.css.map": "/https//:CodeMaverick4/github.io/Tic-Tac-Toe-Multiplayer/static/css/main.cb8b4e16.css.map",
+    "main.75c73886.js.map": "/https//:CodeMaverick4/github.io/Tic-Tac-Toe-Multiplayer/static/js/main.75c73886.js.map",
+    "453.9b2839e6.chunk.js.map": "/https//:CodeMaverick4/github.io/Tic-Tac-Toe-Multiplayer/static/js/453.9b2839e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb8b4e16.css",
+    "static/js/main.75c73886.js"
+  ]
+}
