@@ -17,7 +17,7 @@ function App() {
 
 
   useEffect(() => {
-    const new_socket = io('http://localhost:3001/', {
+    const new_socket = io('https://tic-tac-toe-multiplayer-3x61.onrender.com', {
       // reconnection: false,
     });
     setSocket(new_socket);
