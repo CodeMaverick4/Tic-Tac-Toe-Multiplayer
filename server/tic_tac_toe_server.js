@@ -1,4 +1,5 @@
-const app = require('express')();
+const express = require('express');
+const app = express();
 const server = require('http').createServer(app);
 const checkWin = require('./checking_win _condition')
 const path = require('path');

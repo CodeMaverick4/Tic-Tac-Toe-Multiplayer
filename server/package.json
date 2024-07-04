@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "tic_tac_toe_server.js",
   "scripts": {
-    "start": "node start"
+    "start": "node tic_tac_toe_server.js"
   },
   "author": "",
   "license": "ISC",
