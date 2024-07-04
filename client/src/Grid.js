@@ -32,7 +32,7 @@ export default function Grid({socket,user_data,matrix,setMatrix,isRoomFull}) {
          return () => {
             socket.off('get_matrix');
           }; 
-    },[socket])
+    },[socket,setMatrix,matrix])
 
 
     
